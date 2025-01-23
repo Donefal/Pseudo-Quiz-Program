@@ -16,6 +16,8 @@ It's basically a quiz program! It manages quizzes, assign it to the student, and
 - Namespaces: Making my own namespaces and the better practice of using it
 - Pass by reference and pass by value
 - File handling: Creating & Deleting files
+- Type casting in a modern C++ way
+- Better error handling + try & catch
 
 ## What I can improve:
 - **It feels like a spaghetti code**. Many of its functions that basically do the same thing have different kind of approach. Like its loop, parameter, return value, or how it works in general is different even though it have the same usage.
