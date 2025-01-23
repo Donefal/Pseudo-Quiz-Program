@@ -1,0 +1,29 @@
+type of question
+text
+answer
+choice (if multiple choices)
+---
+0
+Welcome to this example question!
+---
+1
+What is the capital city of Indonesia?
+2
+Jawa
+Jakarta
+Nusantara
+---
+2
+How many legs does a chicken have?
+2
+---
+1
+Is this a true or false question?
+0
+True
+False
+---
+0
+Thank you for participating!
+---
+END
