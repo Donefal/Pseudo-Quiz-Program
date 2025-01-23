@@ -1,6 +1,5 @@
 # Pseudo-Quiz-Program
-A simple personal C++ program that inspired by Quizziz and its vast features
-Or... you can say it's a huge spaghetti mess which I used to learn
+A simple personal C++ program that inspired by Quizziz and its vast features. Or... you can say it's a huge spaghetti mess which I used to learn
 
 ## What is this program?
 It's basically a quiz program! It manages quizzes, assign it to the student, and let them do the work all in one place. You can choose between some type of question type like Multiple Choices, Short Answer, and Answerless, then add question to it. You can see all the past saved question and see how well your student do in the quiz (kind of)
